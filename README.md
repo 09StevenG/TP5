@@ -21,8 +21,10 @@ Región de microondas en espectro electromagnético
 
 Las ondas se identifican por su longitud de onda y frecuencia, junto a ello sobresalen parámetros como la amplitud, que es el máximo desplazamiento de una onda desde su posición de equilibrio. Además de la intensidad, entendida como el promedio de potencia transferida durante un período de onda. Las microondas operan en un rango de frecuencia mucho más bajo que las ópticas y reconocer su fase (posición en tiempo y espacio) es fundamental para entender su propagación en la superficie terrestre. (Applied Remote Sensing Training Program , 2020).
 
+**Figura 2.**
+Energía emitida por la Tierra y ventana atmosférica en la región de microondas
 ![](microonda.jpg)
-
+> Fuente: Ruíz, 2015
 
 ## Metodología
 [Código en GEE Inundaciones](https://code.earthengine.google.com/eea6817e2f6e61a4680d05f9a7a1bee5)
