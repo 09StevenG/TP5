@@ -60,7 +60,7 @@ Comúnmente se utilizan polarizaciones lineales y los sensores SAR propagan o re
 
 ![](inundacionsar.jpeg)
 
-![](rvi.jpg)
+![](vegetacion.jpeg)
 
 
 
