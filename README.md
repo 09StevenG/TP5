@@ -12,6 +12,7 @@ Tecnología SAR: Inundaciones e índices de vegetación
 > las microondas tienen propiedades especiales que son importantes en la teledetección, debido a su mayor longitud de onda comparado con las señales ópticas y de infrarrojo. A mayores longitudes de onda la radiación de microondas puede penetrar a través de las nubes, polvo, neblina y lluvia, además estas longitudes de onda son menos susceptibles a la dispersión atmosférica, que afecta en gran medida a las señales ópticas (Canada Centre for Remote Sensing citado en Acevedo, 2011,p.02).
 
 ![](microonda.jpg)
+
 Las ondas se identifican por su longitud de onda y frecuencia, junto a ello sobresalen parámetros como la amplitud, que es el máximo desplazamiento de una onda desde su posición de equilibrio. Además de la intensidad, entendida como el promedio de potencia transferida durante un período de onda. Las microondas operan en un rango de frecuencia mucho más bajo que las ópticas y reconocer su fase (posición en tiempo y espacio) es fundamental para entender su propagación en la superficie terrestre. (Applied Remote Sensing Training Program , 2020).
 
 ![](tablamicro.png)
