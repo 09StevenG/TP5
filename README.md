@@ -28,14 +28,15 @@ Esta ventana atmosférica permite que la señal emitida por la antena logre lleg
 
 **Retrodispersión**
 > “La energía retrodispersada (backscattered) recibida por el sensor se amplifica y procesa para obtener la posición, las propiedades eléctricas y las propiedades superficiales de los objetos” (Ruíz, 2015, p.02).
-- 
+ 
 **Figura 3.**
+Los tres tipos principales de dispersión considerados para los datos SAR. 
 
 ![](retrodispersion.png)
 
 > Fuente: Meyer, 2019
 
-- Es la energía dispersada de vuelta una vez que la señal ha interactuado con el objeto presente en la superficie. La retrodispersión puede disminuir con un mayor ángulo de incidencia, es decir, si un radar observa el mismo objeto a distintos ángulos la retrodispersión será distinta.
+- Se define como la energía dispersada de vuelta una vez que la señal ha interactuado con el objeto presente en la superficie. La retrodispersión puede disminuir con un mayor ángulo de incidencia, es decir, si un radar observa el mismo objeto a distintos ángulos la retrodispersión será distinta.
 
 ## Metodología
 [Código en GEE Inundaciones](https://code.earthengine.google.com/eea6817e2f6e61a4680d05f9a7a1bee5)
