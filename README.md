@@ -8,7 +8,7 @@ Tecnología SAR: Inundaciones e índices de vegetación
 ## Contenido teórico : Defina e Ilustre los siguientes conceptos
 
 **Microondas**
-- Las microondas en el espectro electromagnético abarcan longitudes extensas que van en el rango de 1cm y 1m. 
+- Las microondas en el espectro electromagnético abarcan longitudes de onda larga que van en el rango de 1cm y 1m. 
 > las microondas tienen propiedades especiales que son importantes en la teledetección, debido a su mayor longitud de onda comparado con las señales ópticas y de infrarrojo. A mayores longitudes de onda la radiación de microondas puede penetrar a través de las nubes, polvo, neblina y lluvia, además estas longitudes de onda son menos susceptibles a la dispersión atmosférica, que afecta en gran medida a las señales ópticas (Canada Centre for Remote Sensing citado en Acevedo, 2011,p.02).
 
 **Figura 1.**
