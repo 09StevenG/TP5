@@ -57,8 +57,11 @@ Comúnmente se utilizan polarizaciones lineales y los sensores SAR propagan o re
 [Código en GGE índice de Vegetación con Radar](https://code.earthengine.google.com/aae609a07c80fb869b729654ec96504a)
 
 ## Diagramas de flujos
-[](inundaciones.jpeg)
-[](rvi.jpg)
+
+![](inundaciones.jpeg)
+
+
+![](rvi.jpg)
 
 
 
