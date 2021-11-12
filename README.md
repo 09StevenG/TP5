@@ -75,7 +75,7 @@ Al crear la composición de imágenes con la polarización VV del antes y el des
 Una vez ejecutado el código con bandas de polarización V-V y V-H. Al visualizar los datos y gráficos resultantes, el índice oscila entre 0 y 1 , los valores cercanos a 0 pueden referirse a coberturas lisas o descubiertas con colores rojos , en contraste, el crecimiento del índice se relaciona con mayor cobertura vegetal donde resaltan colores verdes y amarillos. El uso de distintas fechas facilita un análisis temporal pues los resultados en cada mes pueden evidenciar cambios en la vegetación, por ejemplo, el crecimiento de un cultivo que produce un aumento en el índice o por lo contrario puede evidenciar la presecia de plagas en los cultivos que pueden generar la pérdida de una plantación, además de ello,  un suelo liso que se prepara para el proceso de siembra arrojara índices más bajos. En el caso analizado hay un cambio claro en los niveles de retrodispersión posterior a la Zafra realizada en el cultivo de Caña de azúcar pasando a colores más rojos en el mes de marzo donde hay una disminución del RVI.
 
 ![](rvidrastico.png)
-
+![](moderado.png)
 
 
 
