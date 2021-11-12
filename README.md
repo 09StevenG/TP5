@@ -42,7 +42,12 @@ Se puede entender como la energía dispersada de vuelta una vez que la señal ha
 
 Este concepto esta sumamente relacionado con la retrodispersión pues las propiedades dieléctricas de un medio explican cómo una señal de microondas de longitud de onda interactúa con un medio de dispersión como la superficie de la Tierra o un dosel de vegetación. Estas propiedades dictan cuánto de la radiación entrante se dispersa en la superficie, cuánta señal penetra en el medio y cuánta de la energía se pierde en el medio a través de la absorción (Meyer, 2019).
 
-![](dialec.png)
+**Bandas en RADAR para aplicaciones ambientales**
+
+Comúnmente se utilizan polarizaciones lineales y los sensores SAR propagan o reciben energía con una polarización horizontal o vertical. La diferencia entre componentes perpendiculares es de cero grados evitando el desfase al momento de la propagación.
+
+
+
 ## Metodología
 [Código en GEE Inundaciones](https://code.earthengine.google.com/eea6817e2f6e61a4680d05f9a7a1bee5)
 
