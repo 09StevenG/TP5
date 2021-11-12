@@ -76,7 +76,7 @@ Una vez ejecutado el código con bandas de polarización V-V y V-H. Al visualiza
 
 ![](rvidrastico.png)
 
-![](imagenmod.png)
+
 
 
  
