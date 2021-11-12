@@ -58,7 +58,7 @@ Comúnmente se utilizan polarizaciones lineales y los sensores SAR propagan o re
 
 ## Diagramas de flujos
 
-![](inundaciones.jpeg)
+![](inundacionsar.jpeg)
 
 
 ![](rvi.jpg)
