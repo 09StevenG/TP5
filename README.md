@@ -77,6 +77,7 @@ Una vez ejecutado el código con bandas de polarización V-V y V-H. Al visualiza
 ![](rvidrastico.png)
 ![](moderado.png)
 
+Se obtiene un gráfico con múltiples líneas pues se analizó cada polígono de las 27 fincas. Es un año de análisis que representa las diferencias en los niveles de retrodispersión. Es sumamente variable ya que puede responder a periodos de tiempo en los que se prepara el suelo para la siembra, otros meses con crecimiento vigoroso del cultivo con índices mayores. Además, es fundamental conocer si todas las fincas tienen el mismo patrón de siembra e incluso dueños que gestionan los momentos para iniciar con la producción. Datos que solamente se pueden obtener en campo, por ello siempre se resalta la capacidad del profesional en Geografía para crear una relación entre los datos visualizados por medio de herramientas tecnológicas que luego deben ser corroborados en campo.
 
 
  
