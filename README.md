@@ -5,8 +5,9 @@ Tecnología SAR: Inundaciones e índices de vegetación
 - MSc.María José Molina Montero
 - Estudiantes: Steven Guillén-Ana López
 
-## Contenido teórico
+## Contenido teórico : Defina e Ilustre los siguientes conceptos
 
+*Microondas*
 
 
 ## Metodología
