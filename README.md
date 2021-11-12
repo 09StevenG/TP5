@@ -28,7 +28,9 @@ Esta ventana atmosférica permite que la señal emitida por la antena logre lleg
 
 **Retrodispersión**
 - Es la energía dispersada de vuelta una vez que la señal ha interactuado con el objeto presente en la superficie. La retrodispersión puede disminuir con un mayor ángulo de incidencia, es decir, si un radar observa el mismo objeto a distintos ángulos la retrodispersión será distinta.
-
+**Figura 3.**
+![](retrodispersion.png)
+> Fuente: Meyer, 2019
 > “La energía retrodispersada (backscattered) recibida por el sensor se amplifica y procesa para obtener la posición, las propiedades eléctricas y las propiedades superficiales de los objetos” (Ruíz, 2015, p.02).
 
 
