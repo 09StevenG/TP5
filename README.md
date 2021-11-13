@@ -23,7 +23,9 @@ Las ondas se identifican por su longitud de onda y frecuencia, junto a ello sobr
 
 
 <img src="microonda.jpg" alt="Girl in a jacket" width="600" height="300">
+
 > Fuente: Ruíz, 2015
+
 **Figura 2.**
 Energía emitida por la Tierra y ventana atmosférica en la región de microondas
 
