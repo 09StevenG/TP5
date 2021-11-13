@@ -49,7 +49,7 @@ Se puede entender como la energía dispersada de vuelta una vez que la señal ha
 
 > Fuente: Meyer, 2019
 >
-**Figura 4**
+**Figura 4.**
 Penetración de la señal SAR por longitud de onda
 
 Este concepto esta sumamente relacionado con la retrodispersión pues las propiedades dieléctricas de un medio explican cómo una señal de microondas de longitud de onda interactúa con un medio de dispersión como la superficie de la Tierra o un dosel de vegetación. Estas propiedades dictan cuánto de la radiación entrante se dispersa en la superficie, cuánta señal penetra en el medio y cuánta de la energía se pierde en el medio a través de la absorción (Meyer, 2019).
@@ -58,9 +58,11 @@ Este concepto esta sumamente relacionado con la retrodispersión pues las propie
 
 Comúnmente se utilizan polarizaciones lineales y los sensores SAR propagan o reciben energía con una polarización horizontal o vertical. La diferencia entre componentes perpendiculares es de cero grados evitando el desfase al momento de la propagación.
 
-**Figura 4**
-Bandas en Radar
 <img src="bandas.png" alt="Girl in a jacket" width="600" height="300">
+> Fuente: ARSET, 2020
+
+**Figura 5.**
+Bandas en Radar
 
 **Radar de Aértura Sintética**
 
