@@ -88,7 +88,7 @@ Al crear la composición de imágenes con la polarización VV del antes y el des
 
 El ruido que resulta en la composición (Figura  ) se corrigió con el filtro de speckle, el cual hizo que homogeneizaran los pixeles claros y oscuros, conservando los bordes de las coberturas y la textura de la imagen.
 	
- <img src="inundatres.jpeg" alt="Girl in a jacket" width="600" height="300">
+ <img src="inundatres.jpg" alt="Girl in a jacket" width="600" height="300">
 
 Seguidamente, se aplico una diferencia de mosaicos lo cual hizo que se inviertieran los valores, es decir que se pasaran los valores más oscuros a los más claros en las zonas de inundación, esto con el objetivo de ver los valores pixel que tiene un área determinada y que, junto a la correcta asignación del umbral (en este caso 1.50), permite ver los números de cambio para las inundaciones.
 
