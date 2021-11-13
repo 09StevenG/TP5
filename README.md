@@ -73,7 +73,7 @@ Los radares de apertura sintética (SAR) generan imágenes radar de reflectivida
 
 > Fuente: Meyer, 2019
 > 
-**Figura 6** 
+**Figura 6.** 
 Geometría SAR
 
 
@@ -99,38 +99,38 @@ De acuerdo como Meyer (2019) a diferencia de la mayoría de los sistemas de imá
 ### Detección de inundaciones
 Para la detección de cambios y monitoreo de cuerpos de agua en grandes extensiones, la utilización de la banda C de Radar de Apertura Sintética (SAR) es muy efectiva. Además, utilizar esta tecnología permite, en un país tropical como el nuestro, acceder a imágenes sin distorsiones asociadas a nubes. La metodología de detección de cambios mediante mecanismos de retrodispersión junto al uso de un umbral adecuado, permitió conocer las áreas que fueron inundadas después del huracán Otto.
 
+<img src="inundauno.jpeg" alt="Girl in a jacket" width="600" height="300">
+
 **Figura 6**
 Imágenes antes y después del huracán Otto
 
-<img src="inundauno.jpeg" alt="Girl in a jacket" width="600" height="300">
-
 Al crear la composición de imágenes con la polarización VV del antes y el después de la inundación se pudo visualizar una gama de colores del morado al verde, en donde el morado corresponde a las zonas en las que antes de la inundación se veían brillantes y después del huracán se veían oscuras por la poca señal que volvía al sensor, los colores blancos corresponden a zonas donde no hubo cambio, y los colores verde a zonas en donde la retrodispersión aumentó y por tanto la señal, pero no significa que allí hubo una inundación del todo, sino que quiere decir hay una superficie muy húmeda y rugosa, como por ejemplo el lago de la figura [].
+
+<img src="inundados.jpeg" alt="Girl in a jacket" width="600" height="300">
 
 **Figura 7**
 Composición de imágenes
 
-<img src="inundados.jpeg" alt="Girl in a jacket" width="600" height="300">
-
 El ruido que resulta en la composición (Figura  ) se corrigió con el filtro de speckle, el cual hizo que homogeneizaran los pixeles claros y oscuros, conservando los bordes de las coberturas y la textura de la imagen.
 
+ <img src="inundatres.jpg" alt="Girl in a jacket" width="600" height="300">
+ 
 **Figura 8**
 Aplicación filtro de speckle
 
- <img src="inundatres.jpg" alt="Girl in a jacket" width="600" height="300">
-
 Seguidamente, se aplico una diferencia de mosaicos lo cual hizo que se inviertieran los valores, es decir que se pasaran los valores más oscuros a los más claros en las zonas de inundación, esto con el objetivo de ver los valores pixel que tiene un área determinada y que, junto a la correcta asignación del umbral (en este caso 1.50), permite ver los números de cambio para las inundaciones.
+
+<img src="inundacuatro.jpeg" alt="Girl in a jacket" width="600" height="300">
 
 **Figura 9**
 Aplicación de la diferencia a los mosaicos
 
-<img src="inundacuatro.jpeg" alt="Girl in a jacket" width="600" height="300">
-
 Haciendo cambios en el umbral, se observó que entre menos restrictivo sea, más se llenará de ruido la imagen, porque los pixeles dispersos serán contemplados como inundados. Es necesario probar cual umbral va a ser adecuado para el proyecto.
+
+<img src="inundacinco.jpeg" alt="Girl in a jacket" width="600" height="300">
 
 **Figura 10**
 Áreas inundadas
-
-<img src="inundacinco.jpeg" alt="Girl in a jacket" width="600" height="300">
 
 ### Indice de Vegetación por Radar (RVI)
 Una vez ejecutado el código con bandas de polarización V-V y V-H. Al visualizar los datos y gráficos resultantes, el índice oscila entre 0 y 1 , los valores cercanos a 0 pueden referirse a coberturas lisas o descubiertas con colores rojos , en contraste, el crecimiento del índice se relaciona con mayor cobertura vegetal donde resaltan colores verdes y amarillos. El uso de distintas fechas facilita un análisis temporal pues los resultados en cada mes pueden evidenciar cambios en la vegetación, por ejemplo, el crecimiento de un cultivo que produce un aumento en el índice o por lo contrario puede evidenciar la presecia de plagas en los cultivos que pueden generar la pérdida de una plantación, además de ello,  un suelo liso que se prepara para el proceso de siembra arrojara índices más bajos. En el caso analizado hay un cambio claro en los niveles de retrodispersión posterior a la Zafra realizada en el cultivo de Caña de azúcar pasando a colores más rojos en el mes de marzo donde hay una disminución del RVI.
