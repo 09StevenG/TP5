@@ -77,7 +77,7 @@ Los radares de apertura sintética (SAR) generan imágenes radar de reflectivida
 Geometría SAR
 
 
-De acuerdo como Meyer (2019) a diferencia de la mayoría de los sistemas de imágenes ópticas, que apuntan sus sensores hacia el nadir, la antena de un radar apunta lejos del nadir por un llamado ángulo de mirada que ilumina una franja continua en el suelo a medida que la aeronave se mueve. Los SAR transmiten señales de microondas en un ángulo oblicuo y miden la parte retrodispersada (en la dirección del sensor) de esta señal, para analizar características en la superficie (p.1-5).
+De acuerdo como Meyer (2019) a diferencia de la mayoría de los sistemas de imágenes ópticas, que apuntan sus sensores hacia el nadir, la antena de un radar apunta lejos del nadir por un llamado ángulo de mirada que ilumina una franja continua en el suelo a medida que la aeronave se mueve. Los SAR transmiten señales de microondas en un ángulo oblicuo y miden la parte retrodispersada (en la dirección del sensor) de esta señal, para analizar características en la superficie (p.21-25).
 
 
 
@@ -153,7 +153,7 @@ Los resultados evidencian cambios muy drásticos como en la figura 13, puede res
 <img src="moderado.png" alt="Girl in a jacket" width="600" height="300">
 
 **Figura 14.**
-Cambio MODERADO RVI.
+Cambio moderado RVI.
 
 En otra finca los resultados en el índice son moderados, puede responder a una zona en la cual el crecimiento de la caña no tuvo tanto desarrollo y al momento de realizar la Zafra el cambio no es tan drástico.
 
@@ -165,5 +165,23 @@ Gráfico resultante RVI durante un año
 Se obtiene un gráfico con múltiples líneas pues se analizó cada polígono de las 27 fincas. Es un año de análisis que representa las diferencias en los niveles de retrodispersión. Es sumamente variable ya que puede responder a periodos de tiempo en los que se prepara el suelo para la siembra, otros meses con crecimiento vigoroso del cultivo con índices mayores. Además, es fundamental conocer si todas las fincas tienen el mismo patrón de siembra. Datos que solamente se pueden obtener en campo, por ello siempre se resalta la capacidad del profesional en Geografía para crear una relación entre los datos visualizados por medio de herramientas tecnológicas que luego deben ser corroborados en campo.
 
 
+                                                       Referencias
 
+Acevo Herrera, R. (2011). Sistemas de teledetección activos y pasivos embarcados en sistemas aéreos no tripulados para la monitorización de la tierra. Universitat Politècnica de Catalunya.
+
+Applied Remote Sensing Training Program (ARSET).(2020). Mapeo y Monitoreo de Bosques con Datos SAR: Análisis Multi-Temporal https://appliedsciences.nasa.gov/sites/default/files/2020-11/SAR_Part1_Spanish.pdf
+
+Applied Remote Sensing Training Program.(ARSET).(2021). Clasificación de Cultivos Agrícolas con Radar de Apertura Sintética y Teledetección Óptica https://appliedsciences.nasa.gov/sites/default/files/2021-10/Ag_Part1_Edited_HM_JO_HM_Span.pdf
+
+Meyer, F. (2019). Spaceborne Synthetic Aperture Radar: Principles, data access, and basic processing techniques. Synthetic Aperture Radar (SAR) Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation, 21-64.
+
+Ruiz Fernández, L. Á. (2015). Sensores de microondas en teledetección–II: Aspectos radiométricos.
+
+
+
+
+
+                                                       
+                                                  
+                                                       
  
