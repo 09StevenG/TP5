@@ -72,6 +72,7 @@ Los radares de apertura sintética (SAR) generan imágenes radar de reflectivida
 > Fuente: Meyer, 2019
 
 <img src="sarimag.png" alt="Girl in a jacket" width="600" height="300">
+
 **Figura 6** 
 Geometría SAR
 
