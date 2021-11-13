@@ -59,6 +59,7 @@ Este concepto esta sumamente relacionado con la retrodispersión pues las propie
 Comúnmente se utilizan polarizaciones lineales y los sensores SAR propagan o reciben energía con una polarización horizontal o vertical. La diferencia entre componentes perpendiculares es de cero grados evitando el desfase al momento de la propagación.
 
 <img src="bandas.png" alt="Girl in a jacket" width="600" height="300">
+
 > Fuente: ARSET, 2020
 
 **Figura 5.**
