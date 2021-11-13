@@ -32,7 +32,7 @@ Esta ventana atmosférica permite que la señal emitida por la antena logre lleg
 **Figura 3.**
 Los tres tipos principales de dispersión considerados para los datos SAR. 
 
-![](retrodispersion.png)
+<img src="retrodispersion.png" alt="Girl in a jacket" width="600" height="300">
 
 > Fuente: Meyer, 2019
 
