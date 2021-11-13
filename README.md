@@ -28,6 +28,7 @@ Las ondas se identifican por su longitud de onda y frecuencia, junto a ello sobr
 
 **Figura 2.**
 Energía emitida por la Tierra y ventana atmosférica en la región de microondas
+
 Esta ventana atmosférica permite que la señal emitida por la antena logre llegar a la superficie terreste evitando factores que alteran el pulso electromagnético. 
 
 **Retrodispersión**
