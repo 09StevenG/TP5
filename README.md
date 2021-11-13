@@ -56,6 +56,8 @@ Este concepto esta sumamente relacionado con la retrodispersión pues las propie
 
 ### **Bandas en RADAR para aplicaciones ambientales**
 
+Desde análisis realizado por Meyer (2019) la banda X se utiliza principalmente para el monitoreo urbano y de infraestructura pues en zonas de vegetación los sensores se dispersan principalmente en las copas los árboles, destaca  que las señales de banda C y L penetran cada vez más más profundo en el volumen de la vegetación siendo adecuadas para el estudio de la estructura en la vegetación, cuantificar la biomasa y cartografiar zonas de inundación.
+
 Comúnmente se utilizan polarizaciones lineales y los sensores SAR propagan o reciben energía con una polarización horizontal o vertical. La diferencia entre componentes perpendiculares es de cero grados evitando el desfase al momento de la propagación.
 
 <img src="bandas.png" alt="Girl in a jacket" width="600" height="300">
