@@ -106,14 +106,14 @@ Para la detección de cambios y monitoreo de cuerpos de agua en grandes extensio
 **Figura 7.**
 Imágenes antes y después del huracán Otto
 
-Al crear la composición de imágenes con la polarización VV del antes y el después de la inundación se pudo visualizar una gama de colores del morado al verde, en donde el morado corresponde a las zonas en las que antes de la inundación se veían brillantes y después del huracán se veían oscuras por la poca señal que volvía al sensor, los colores blancos corresponden a zonas donde no hubo cambio, y los colores verde a zonas en donde la retrodispersión aumentó y por tanto la señal, pero no significa que allí hubo una inundación del todo, sino que quiere decir hay una superficie muy húmeda y rugosa, como por ejemplo el lago de la figura [].
+Al crear la composición de imágenes con la polarización VV del antes y el después de la inundación se pudo visualizar una gama de colores del morado al verde, en donde el morado corresponde a las zonas en las que antes de la inundación se veían brillantes y después del huracán se veían oscuras por la poca señal que volvía al sensor, los colores blancos corresponden a zonas donde no hubo cambio, y los colores verde a zonas en donde la retrodispersión aumentó y por tanto la señal, pero no significa que allí hubo una inundación del todo, sino que quiere decir hay una superficie muy húmeda y rugosa, como por ejemplo el lago de la figura 7.
 
 <img src="inundados.jpeg" alt="Girl in a jacket" width="600" height="300">
 
 **Figura 8.**
 Composición de imágenes
 
-El ruido que resulta en la composición (Figura  ) se corrigió con el filtro de speckle, el cual hizo que homogeneizaran los pixeles claros y oscuros, conservando los bordes de las coberturas y la textura de la imagen.
+El ruido que resulta en la composición (Figura 8 ) se corrigió con el filtro de speckle, el cual hizo que homogeneizaran los pixeles claros y oscuros, conservando los bordes de las coberturas y la textura de la imagen.
 
  <img src="inundatres.jpg" alt="Girl in a jacket" width="600" height="300">
  
