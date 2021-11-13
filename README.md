@@ -167,15 +167,15 @@ Se obtiene un gráfico con múltiples líneas pues se analizó cada polígono de
 
                                                        Referencias
 
-Acevo Herrera, R. (2011). Sistemas de teledetección activos y pasivos embarcados en sistemas aéreos no tripulados para la monitorización de la tierra. Universitat Politècnica de Catalunya.
+Acevo Herrera, R. (2011). *Sistemas de teledetección activos y pasivos embarcados en sistemas aéreos no tripulados para la monitorización de la tierra. Universitat Politècnica de Catalunya.*
 
-Applied Remote Sensing Training Program (ARSET).(2020). Mapeo y Monitoreo de Bosques con Datos SAR: Análisis Multi-Temporal https://appliedsciences.nasa.gov/sites/default/files/2020-11/SAR_Part1_Spanish.pdf
+Applied Remote Sensing Training Program (ARSET).(2020). *Mapeo y Monitoreo de Bosques con Datos SAR: Análisis Multi-Temporal* https://appliedsciences.nasa.gov/sites/default/files/2020-11/SAR_Part1_Spanish.pdf
 
-Applied Remote Sensing Training Program.(ARSET).(2021). Clasificación de Cultivos Agrícolas con Radar de Apertura Sintética y Teledetección Óptica https://appliedsciences.nasa.gov/sites/default/files/2021-10/Ag_Part1_Edited_HM_JO_HM_Span.pdf
+Applied Remote Sensing Training Program.(ARSET).(2021). *Clasificación de Cultivos Agrícolas con Radar de Apertura Sintética y Teledetección Óptica* https://appliedsciences.nasa.gov/sites/default/files/2021-10/Ag_Part1_Edited_HM_JO_HM_Span.pdf
 
-Meyer, F. (2019). Spaceborne Synthetic Aperture Radar: Principles, data access, and basic processing techniques. Synthetic Aperture Radar (SAR) Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation, 21-64.
+Meyer, F. (2019). Spaceborne Synthetic Aperture Radar: *Principles, data access, and basic processing techniques. Synthetic Aperture Radar (SAR) Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation, 21-64.
 
-Ruiz Fernández, L. Á. (2015). Sensores de microondas en teledetección–II: Aspectos radiométricos.
+Ruiz Fernández, L. Á. (2015). *Sensores de microondas en teledetección–II: Aspectos radiométricos.* https://riunet.upv.es/handle/10251/51662
 
 
 
