@@ -13,6 +13,7 @@ Tecnología SAR: Inundaciones e índices de vegetación
 
 
 <img src="tablamicro.png" alt="Girl in a jacket" width="600" height="300">
+
 > Fuente: ARSET, 2020
 
 **Figura 1.**
