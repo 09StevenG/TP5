@@ -72,7 +72,8 @@ Los radares de apertura sintética (SAR) generan imágenes radar de reflectivida
 > Fuente: Meyer, 2019
 
 <img src="sarimag.png" alt="Girl in a jacket" width="600" height="300">
-**Figura 5** Geometría SAR
+**Figura 6** 
+Geometría SAR
 
 
 De acuerdo como Meyer (2019) a diferencia de la mayoría de los sistemas de imágenes ópticas, que apuntan sus sensores hacia el nadir, la antena de un radar apunta lejos del nadir por un llamado ángulo de mirada que ilumina una franja continua en el suelo a medida que la aeronave se mueve. Los SAR transmiten señales de microondas en un ángulo oblicuo y miden la parte retrodispersada (en la dirección del sensor) de esta señal, para analizar características en la superficie (p.1-5).
