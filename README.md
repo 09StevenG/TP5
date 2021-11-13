@@ -79,7 +79,7 @@ De acuerdo como Meyer (2019) a diferencia de la mayoría de los sistemas de imá
 ### Detección de inundaciones
 Para la detección de cambios y monitoreo de cuerpos de agua en grandes extensiones, la utilización de la banda C de Radar de Apertura Sintética (SAR) es muy efectiva. Además, utilizar esta tecnología permite, en un país tropical como el nuestro, acceder a imágenes sin distorsiones asociadas a nubes. La metodología de detección de cambios mediante mecanismos de retrodispersión junto al uso de un umbral adecuado, permitió conocer las áreas que fueron inundadas después del huracán Otto.
 
-<img src="inundauno" alt="Girl in a jacket" width="600" height="300">
+<img src="inundauno.jpeg" alt="Girl in a jacket" width="600" height="300">
 
 
 Al crear la composición de imágenes con la polarización VV del antes y el después de la inundación se pudo visualizar una gama de colores del morado al verde, en donde el morado corresponde a las zonas en las que antes de la inundación se veían brillantes y después del huracán se veían oscuras por la poca señal que volvía al sensor, los colores blancos corresponden a zonas donde no hubo cambio, y los colores verde a zonas en donde la retrodispersión aumentó y por tanto la señal, pero no significa que allí hubo una inundación del todo, sino que quiere decir hay una superficie muy húmeda y rugosa, como por ejemplo el lago de la figura [].
