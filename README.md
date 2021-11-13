@@ -142,13 +142,25 @@ Visualización del cambio en RVI entre los meses de Enero y Marzo
 
 El uso de distintas fechas facilita un análisis temporal pues los resultados en cada mes pueden evidenciar cambios en la vegetación, por ejemplo, el crecimiento de un cultivo que produce un aumento en el índice o por lo contrario puede evidenciar la presecia de plagas en los cultivos que pueden generar la pérdida de una plantación, además de ello,  un suelo liso que se prepara para el proceso de siembra arrojara índices más bajos. En el caso analizado hay un cambio claro en los niveles de retrodispersión posterior a la Zafra realizada en el cultivo de Caña de azúcar pasando a colores más rojos en el mes de marzo donde hay una disminución del RVI.
 
-**Figura 12.**
-![](rvidrastico.png)
-![](moderado.png)
+
+<img src="rvidrastico.png" alt="Girl in a jacket" width="600" height="300">
+
+**Figura 13.** 
+Cambio drástico del RVI 
+
+Los resultados evidencian cambios muy drásticos como en la figura 13, puede responder a una zona de cultivo muy densa en el mes de Enero que luego tiene un cambio sustancial de acuerdo con los valores arrojados en Marzo. 
+
+<img src="moderado.png" alt="Girl in a jacket" width="600" height="300">
+**Figura 14.**
+Cambio MODERADO RVI.
+
+En otra finca los resultados en el índice son moderados, puede responder a una zona en la cual el crecimiento de la caña no tuvo tanto desarrollo y al momento de realizar la Zafra el cambio no es tan drástico.
+
+**Figura 15.**
+<img src="graficorvi.png" alt="Girl in a jacket" width="800" height="300">
 
 Se obtiene un gráfico con múltiples líneas pues se analizó cada polígono de las 27 fincas. Es un año de análisis que representa las diferencias en los niveles de retrodispersión. Es sumamente variable ya que puede responder a periodos de tiempo en los que se prepara el suelo para la siembra, otros meses con crecimiento vigoroso del cultivo con índices mayores. Además, es fundamental conocer si todas las fincas tienen el mismo patrón de siembra. Datos que solamente se pueden obtener en campo, por ello siempre se resalta la capacidad del profesional en Geografía para crear una relación entre los datos visualizados por medio de herramientas tecnológicas que luego deben ser corroborados en campo.
 
-**Figura 13.**
-![](graficorvi.png)
+
 
  
