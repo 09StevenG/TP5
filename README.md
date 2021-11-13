@@ -51,6 +51,8 @@ Comúnmente se utilizan polarizaciones lineales y los sensores SAR propagan o re
 **Radar de Aértura Sintética**
 Los radares de apertura sintética (SAR) generan imágenes radar de reflectividad de alta resolución. Estos sensores se basan en el uso de un radar (acrónimo de Radio Detection And Ranging). Es un sistema activo, es decir, genera su propia fuente de energía. Emiten una señal de microondas con propiedades conocidas y la fuerza de la energía retrodispersada por el objeto es detectada por el radar. Además de ello, los radares miden el tiempo que tarda la señal en viajar hasta la superficie terrestre y regresar a la antena, de esta forma determinan la ubicación un objeto.
 
+![](sarimag.png)
+
 De acuerdo como Meyer (2019) a diferencia de la mayoría de los sistemas de imágenes ópticas, que apuntan sus sensores hacia el nadir, la antena de un radar apunta lejos del nadir por un llamado ángulo de mirada que ilumina una franja continua en el suelo a medida que la aeronave se mueve. Los SAR transmiten señales de microondas en un ángulo oblicuo y miden la parte retrodispersada (en la dirección del sensor) de esta señal, para analizar características en la superficie (p.1-5).
 
 
