@@ -137,6 +137,9 @@ Una vez ejecutado el código con bandas de polarización V-V y V-H. Al visualiza
 
 <img src="rviuno.png" alt="Girl in a jacket" width="600" height="300">
 
+**Figura 12.**
+Visualización del cambio en RVI entre los meses de Enero y Marzo
+
 El uso de distintas fechas facilita un análisis temporal pues los resultados en cada mes pueden evidenciar cambios en la vegetación, por ejemplo, el crecimiento de un cultivo que produce un aumento en el índice o por lo contrario puede evidenciar la presecia de plagas en los cultivos que pueden generar la pérdida de una plantación, además de ello,  un suelo liso que se prepara para el proceso de siembra arrojara índices más bajos. En el caso analizado hay un cambio claro en los niveles de retrodispersión posterior a la Zafra realizada en el cultivo de Caña de azúcar pasando a colores más rojos en el mes de marzo donde hay una disminución del RVI.
 
 **Figura 12.**
