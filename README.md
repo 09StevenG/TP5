@@ -32,7 +32,7 @@ Esta ventana atmosférica permite que la señal emitida por la antena logre lleg
 <img src="retrodispersion.png" alt="Girl in a jacket" width="600" height="300">
 
 > Fuente: Meyer, 2019
-> 
+ 
 **Figura 3.**
 Los tres tipos principales de dispersión considerados para los datos SAR. 
 
@@ -40,9 +40,12 @@ Se puede entender como la energía dispersada de vuelta una vez que la señal ha
 
 **Constante dieléctrica**
 
-**Figura 4**
-Constante dieléctrica
 <img src="dialectricacons.png" alt="Girl in a jacket" width="600" height="300">
+
+> Fuente: Meyer, 2019
+>
+**Figura 4**
+Penetración de la señal SAR por longitud de onda
 
 Este concepto esta sumamente relacionado con la retrodispersión pues las propiedades dieléctricas de un medio explican cómo una señal de microondas de longitud de onda interactúa con un medio de dispersión como la superficie de la Tierra o un dosel de vegetación. Estas propiedades dictan cuánto de la radiación entrante se dispersa en la superficie, cuánta señal penetra en el medio y cuánta de la energía se pierde en el medio a través de la absorción (Meyer, 2019).
 
