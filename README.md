@@ -41,7 +41,7 @@ Se puede entender como la energía dispersada de vuelta una vez que la señal ha
 **Constante dieléctrica**
 **Figura 4**
 
-![](dialectricacons.png)
+<img src="dialectricacons.png" alt="Girl in a jacket" width="600" height="300">
 
 Este concepto esta sumamente relacionado con la retrodispersión pues las propiedades dieléctricas de un medio explican cómo una señal de microondas de longitud de onda interactúa con un medio de dispersión como la superficie de la Tierra o un dosel de vegetación. Estas propiedades dictan cuánto de la radiación entrante se dispersa en la superficie, cuánta señal penetra en el medio y cuánta de la energía se pierde en el medio a través de la absorción (Meyer, 2019).
 
