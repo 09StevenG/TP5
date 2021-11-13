@@ -7,7 +7,7 @@ Tecnología SAR: Inundaciones e índices de vegetación
 
 ## Contenido teórico : Defina e Ilustre los siguientes conceptos
 
-**Microondas**
+### **Microondas**
 - Las microondas en el espectro electromagnético abarcan longitudes de onda larga que van en el rango de 1cm y 1m. 
 > las microondas tienen propiedades especiales que son importantes en la teledetección, debido a su mayor longitud de onda comparado con las señales ópticas y de infrarrojo. A mayores longitudes de onda la radiación de microondas puede penetrar a través de las nubes, polvo, neblina y lluvia, además estas longitudes de onda son menos susceptibles a la dispersión atmosférica, que afecta en gran medida a las señales ópticas (Canada Centre for Remote Sensing citado en Acevedo, 2011,p.02).
 
@@ -31,7 +31,7 @@ Energía emitida por la Tierra y ventana atmosférica en la región de microonda
 
 Esta ventana atmosférica permite que la señal emitida por la antena logre llegar a la superficie terreste evitando factores que alteran el pulso electromagnético. 
 
-**Retrodispersión**
+### **Retrodispersión**
 > “La energía retrodispersada (backscattered) recibida por el sensor se amplifica y procesa para obtener la posición, las propiedades eléctricas y las propiedades superficiales de los objetos” (Ruíz, 2015, p.02).
  
 <img src="retrodispersion.png" alt="Girl in a jacket" width="600" height="300">
@@ -43,7 +43,7 @@ Los tres tipos principales de dispersión considerados para los datos SAR.
 
 Se puede entender como la energía dispersada de vuelta una vez que la señal ha interactuado con el objeto presente en la superficie. La retrodispersión puede disminuir con un mayor ángulo de incidencia, es decir, si un radar observa el mismo objeto a distintos ángulos la retrodispersión será distinta.
 
-**Constante dieléctrica**
+### **Constante dieléctrica**
 
 <img src="dialectricacons.png" alt="Girl in a jacket" width="600" height="300">
 
@@ -54,7 +54,7 @@ Penetración de la señal SAR por longitud de onda
 
 Este concepto esta sumamente relacionado con la retrodispersión pues las propiedades dieléctricas de un medio explican cómo una señal de microondas de longitud de onda interactúa con un medio de dispersión como la superficie de la Tierra o un dosel de vegetación. Estas propiedades dictan cuánto de la radiación entrante se dispersa en la superficie, cuánta señal penetra en el medio y cuánta de la energía se pierde en el medio a través de la absorción (Meyer, 2019).
 
-**Bandas en RADAR para aplicaciones ambientales**
+### **Bandas en RADAR para aplicaciones ambientales**
 
 Comúnmente se utilizan polarizaciones lineales y los sensores SAR propagan o reciben energía con una polarización horizontal o vertical. La diferencia entre componentes perpendiculares es de cero grados evitando el desfase al momento de la propagación.
 
@@ -63,9 +63,9 @@ Comúnmente se utilizan polarizaciones lineales y los sensores SAR propagan o re
 > Fuente: ARSET, 2020
 
 **Figura 5.**
-Bandas en Radar
+Bandas en Radar y aplicaciones
 
-**Radar de Aértura Sintética**
+### **Radar de Aértura Sintética**
 
 Los radares de apertura sintética (SAR) generan imágenes radar de reflectividad de alta resolución. Estos sensores se basan en el uso de un radar (acrónimo de Radio Detection And Ranging). Es un sistema activo, es decir, genera su propia fuente de energía. Emiten una señal de microondas con propiedades conocidas y la fuerza de la energía retrodispersada por el objeto es detectada por el radar. Además de ello, los radares miden el tiempo que tarda la señal en viajar hasta la superficie terrestre y regresar a la antena, de esta forma determinan la ubicación un objeto.
 
