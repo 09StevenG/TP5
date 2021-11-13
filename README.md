@@ -157,7 +157,7 @@ Cambio MODERADO RVI.
 
 En otra finca los resultados en el índice son moderados, puede responder a una zona en la cual el crecimiento de la caña no tuvo tanto desarrollo y al momento de realizar la Zafra el cambio no es tan drástico.
 
-<img src="graficorvi.png" alt="Girl in a jacket" width="400" height="400">
+![](graficorvi.png)
 
 **Figura 15.** 
 Gráfico resultante RVI durante un año
